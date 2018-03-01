@@ -24,6 +24,8 @@
     "from2-array": "0.0.4",
     "fs": "0.0.1-security",
     "https": "^1.0.0",
+    "jsonfile": "^4.0.0",
+    "request": "^2.83.0",
     "through2": "^2.0.3"
   }
 }
