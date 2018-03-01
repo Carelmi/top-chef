@@ -1,0 +1,832 @@
+[{
+  "name": "Domaine des Séquoias",
+  "locality": "Ruy",
+  "zipcode": "38300",
+  "michelinStars": 1,
+  "id": "1009",
+  "url": "https://www.lafourchette.com/restaurant/Domaine-des-Séquoias/1009",
+  "deals": [{
+    "title": "Menu 70€",
+    "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+    "is_menu": true,
+    "is_special_offer": false
+  }, {
+    "title": "Menu Affaire 40€",
+    "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+    "is_menu": true,
+    "is_special_offer": false
+  }, {
+    "title": "Menu \"Suite Nº11\"  130€",
+    "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+    "is_menu": true,
+    "is_special_offer": false
+  }]
+}, {
+  "name": "Helen",
+  "locality": "Paris",
+  "zipcode": "75008",
+  "michelinStars": 1,
+  "id": "23454",
+  "url": "https://www.lafourchette.com/restaurant/Helen/23454",
+  "deals": [{
+    "title": "Lunch menu monday to friday 48€",
+    "exclusions": "Price per person. By reserving this Set Menu, you may choose once at the restaurant to order using the Set Menu or a la carte.",
+    "is_menu": true,
+    "is_special_offer": false
+  }]
+}, {
+  "name": "Maison Rostang",
+  "locality": "Paris",
+  "zipcode": "75017",
+  "michelinStars": 2,
+  "id": "405",
+  "url": "https://www.lafourchette.com/restaurant/Maison-Rostang/405",
+  "deals": [{
+    "title": "Menu Prestige 115€ Tout Compris, le midi !",
+    "exclusions": "Prix par personne. Un verre de vin par Plat. \nDu mardi au vendredi, le midi.",
+    "is_menu": true,
+    "is_special_offer": true
+  }, {
+    "title": "Menu Prestige 195€ Tout Compris, le soir !",
+    "exclusions": "Prix par personne. Un verre de vin par plat. \nDu lundi au vendredi, le soir.",
+    "is_menu": true,
+    "is_special_offer": true
+  }]
+}, {
+  "name": "Le Strasbourg",
+  "locality": "Bitche",
+  "zipcode": "57230",
+  "michelinStars": 1,
+  "id": "10382",
+  "url": "https://www.lafourchette.com/restaurant/Le-Strasbourg/10382",
+  "deals": [{
+    "title": "Menu 75€",
+    "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+    "is_menu": true,
+    "is_special_offer": false
+  }]
+}, {
+  "name": "L'Archeste",
+  "locality": "Paris",
+  "zipcode": "75116",
+  "michelinStars": 1,
+  "id": "284489",
+  "url": "https://www.lafourchette.com/restaurant/LArcheste/284489",
+  "deals": [{
+    "title": "Menu autour de la Truffe et Caviar 180€",
+    "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+    "is_menu": true,
+    "is_special_offer": false
+  }, {
+    "title": "Menu Carte Blanche le Soir 110€",
+    "exclusions": "Prix par personne. Hors boisson.",
+    "is_menu": true,
+    "is_special_offer": false
+  }, {
+    "title": "Menu Carte Blanche le Midi 52€ et 72€",
+    "exclusions": "Prix par personne.\nHors boisson.",
+    "is_menu": true,
+    "is_special_offer": false
+  }]
+}, {
+  "name": "La Matelote",
+  "locality": "BOULOGNE-SUR-MER",
+  "zipcode": "62200",
+  "michelinStars": 1,
+  "id": "327881",
+  "url": "https://www.lafourchette.com/restaurant/La-Matelote/327881",
+  "deals": [{
+    "title": "Menu 68€",
+    "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+    "is_menu": true,
+    "is_special_offer": false
+  }, {
+    "title": "Menu 40€",
+    "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+    "is_menu": true,
+    "is_special_offer": false
+  }, {
+    "title": "Menu 35€",
+    "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+    "is_menu": true,
+    "is_special_offer": false
+  }, {
+    "title": "Set Menu 28€",
+    "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+    "is_menu": true,
+    "is_special_offer": false
+  }]
+}, {
+  "name": "Les Rosiers",
+  "locality": "Biarritz",
+  "zipcode": "64200",
+  "michelinStars": 1,
+  "id": "6710",
+  "url": "https://www.lafourchette.com/restaurant/Les-Rosiers/6710",
+  "deals": [{
+    "title": "Menu 85€",
+    "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+    "is_menu": true,
+    "is_special_offer": false
+  }]
+}, {
+  "name": "Le Prieuré",
+  "locality": "Villeneuve-lès-Avignon",
+  "zipcode": "30400",
+  "michelinStars": 1,
+  "id": "689",
+  "url": "https://www.lafourchette.com/restaurant/Le-Prieuré/689",
+  "deals": [{
+    "title": "Easter Holydays Menu 100€",
+    "exclusions": "Prix par personne.",
+    "is_menu": true,
+    "is_special_offer": false
+  }]
+}, {
+  "name": "Le Clair de la Plume",
+  "locality": "Grignan",
+  "zipcode": "26230",
+  "michelinStars": 1,
+  "id": "18271",
+  "url": "https://www.lafourchette.com/restaurant/Le-Clair-de-la-Plume/18271",
+  "deals": [{
+    "title": "Menu truffe d'hiver en 7 services 175€",
+    "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+    "is_menu": true,
+    "is_special_offer": false
+  }, {
+    "title": "Menu Ephémère 39€",
+    "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+    "is_menu": true,
+    "is_special_offer": false
+  }, {
+    "title": "Menu 59€",
+    "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+    "is_menu": true,
+    "is_special_offer": false
+  }]
+}, {
+  "name": "L'Almandin",
+  "locality": "Saint-Cyprien",
+  "zipcode": "66750",
+  "michelinStars": 1,
+  "id": "566",
+  "url": "https://www.lafourchette.com/restaurant/L'Almandin/566",
+  "deals": [{
+    "title": "Menu 35€",
+    "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+    "is_menu": true,
+    "is_special_offer": false
+  }]
+}, {
+  "name": "Hostellerie de l'Abbaye de la Celle",
+  "locality": "La Celle",
+  "zipcode": "83170",
+  "michelinStars": 1,
+  "id": "25901",
+  "url": "https://www.lafourchette.com/restaurant/Hostellerie-de-l'Abbaye-de-la-Celle/25901",
+  "deals": [{
+    "title": "Menu 98€",
+    "exclusions": "Prix par personne",
+    "is_menu": true,
+    "is_special_offer": false
+  }]
+}, {
+  "name": "Paloma",
+  "locality": "Mougins",
+  "zipcode": "06250",
+  "michelinStars": 2,
+  "id": "38822",
+  "url": "https://www.lafourchette.com/restaurant/Paloma/38822",
+  "deals": [{
+    "title": "Easter Lunch - Sunday, April 1st, 2018 Menu 180€",
+    "is_menu": true,
+    "is_special_offer": false
+  }]
+}, {
+  "name": "Le Moulin du Roc",
+  "locality": "Champagnac-de-Belair",
+  "zipcode": "24530",
+  "michelinStars": 1,
+  "id": "7133",
+  "url": "https://www.lafourchette.com/restaurant/Le-Moulin-du-Roc/7133",
+  "deals": [{
+    "title": "Menu 85€",
+    "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+    "is_menu": true,
+    "is_special_offer": false
+  }, {
+    "title": "Menu 125€",
+    "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+    "is_menu": true,
+    "is_special_offer": false
+  }, {
+    "title": "Menu 49€",
+    "is_menu": true,
+    "is_special_offer": false
+  }]
+}, {
+  "name": "Dominique Bouchet",
+  "locality": "Paris",
+  "zipcode": "75008",
+  "michelinStars": 1,
+  "id": "310829",
+  "url": "https://www.lafourchette.com/restaurant/Dominique-Bouchet/310829",
+  "deals": [{
+    "title": "-20% on « MENU AVEC SAKE », or 120,00 € instead of 150,00 €!",
+    "is_menu": true,
+    "is_special_offer": true
+  }]
+}, {
+  "name": "Loiseau des Vignes",
+  "locality": "Beaune",
+  "zipcode": "21200",
+  "michelinStars": 1,
+  "id": "3304",
+  "url": "https://www.lafourchette.com/restaurant/Loiseau-des-Vignes/3304",
+  "deals": [{
+    "title": "Menu 119€",
+    "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+    "is_menu": true,
+    "is_special_offer": false
+  }, {
+    "title": "Menu 95€",
+    "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+    "is_menu": true,
+    "is_special_offer": false
+  }, {
+    "title": "Menu 75€",
+    "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+    "is_menu": true,
+    "is_special_offer": false
+  }, {
+    "title": "Menu 59€",
+    "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+    "is_menu": true,
+    "is_special_offer": false
+  }, {
+    "title": "Menu 35€",
+    "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+    "is_menu": true,
+    "is_special_offer": false
+  }, {
+    "title": "Set Menu 25€",
+    "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+    "is_menu": true,
+    "is_special_offer": false
+  }]
+}, {
+  "name": "Le Clos des Sens",
+  "locality": "Annecy",
+  "zipcode": "74940",
+  "michelinStars": 2,
+  "id": "7130",
+  "url": "https://www.lafourchette.com/restaurant/Le-Clos-des-Sens/7130",
+  "deals": [{
+    "title": "Menu 70€",
+    "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+    "is_menu": true,
+    "is_special_offer": false
+  }, {
+    "title": "Menu \"Découverte Grande Fête \" en 10 saveurs 190€",
+    "is_menu": true,
+    "is_special_offer": false
+  }, {
+    "title": "Menu \"Découverte Plein d'Envies\" en 8 saveurs 160€",
+    "is_menu": true,
+    "is_special_offer": false
+  }, {
+    "title": "Menu \"Découverte Pour Voir...\" en 5 saveurs 120€",
+    "is_menu": true,
+    "is_special_offer": false
+  }]
+}, {
+  "name": "Pierre Orsi",
+  "locality": "Lyon 06",
+  "zipcode": "69006",
+  "michelinStars": 1,
+  "id": "12900",
+  "url": "https://www.lafourchette.com/restaurant/Pierre-Orsi/12900",
+  "deals": [{
+    "title": "Menu Mardis Gourmands 150€",
+    "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+    "is_menu": true,
+    "is_special_offer": true
+  }]
+}, {
+  "name": "Le Refuge des Gourmets",
+  "locality": "Machilly",
+  "zipcode": "74140",
+  "michelinStars": 1,
+  "id": "10332",
+  "url": "https://www.lafourchette.com/restaurant/Le-Refuge-des-Gourmets/10332",
+  "deals": [{
+    "title": "Menu 35€",
+    "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+    "is_menu": true,
+    "is_special_offer": false
+  }]
+}, {
+  "name": "Le Vieux Logis",
+  "locality": "Trémolat",
+  "zipcode": "24510",
+  "michelinStars": 1,
+  "id": "6018",
+  "url": "https://www.lafourchette.com/restaurant/Le-Vieux-Logis/6018",
+  "deals": [{
+    "title": "\"Menu \"Balade EstTaxesle\" Accord Mands and Vins 105€\"",
+    "exclusions": "Price per person. By reserving this Set Menu, you may choose once at the restaurant to order using the Set Menu or a la carte.",
+    "is_menu": true,
+    "is_special_offer": false
+  }, {
+    "title": "Menu Tapas 49€",
+    "exclusions": "Price per person. Menu imposé : Il ne sera pas possible de commander to la carte. Monday to Friday lunch. Non Valid les public holiday.",
+    "is_menu": true,
+    "is_special_offer": false
+  }]
+}, {
+  "name": "L'Arôme",
+  "locality": "Paris 08",
+  "zipcode": "75008",
+  "michelinStars": 1,
+  "id": "713",
+  "url": "https://www.lafourchette.com/restaurant/LArôme/713",
+  "deals": [{
+    "title": "Menu Mardis Gourmands 139€",
+    "exclusions": "Prix par personne.",
+    "is_menu": true,
+    "is_special_offer": true
+  }]
+}, {
+  "name": "Le Vivier",
+  "locality": "L'Isle-sur-la-Sorgue",
+  "zipcode": "84800",
+  "michelinStars": 1,
+  "id": "1086",
+  "url": "https://www.lafourchette.com/restaurant/Le-Vivier/1086",
+  "deals": [{
+    "title": "Menu 85€",
+    "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+    "is_menu": true,
+    "is_special_offer": false
+  }, {
+    "title": "Menu 58€",
+    "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+    "is_menu": true,
+    "is_special_offer": false
+  }, {
+    "title": "Menu du \"Marché\" 32€",
+    "exclusions": "Menu disponible du mardi au jeudi, le midi uniquement.\nHors jours fériés",
+    "is_menu": true,
+    "is_special_offer": false
+  }]
+}, {
+  "name": "Le Manoir du Lys",
+  "locality": "Bagnoles-de-l'Orne",
+  "zipcode": "61140",
+  "michelinStars": 1,
+  "id": "2740",
+  "url": "https://www.lafourchette.com/restaurant/Le-Manoir-du-Lys/2740",
+  "deals": [{
+    "title": "Set Menu 49€",
+    "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+    "is_menu": true,
+    "is_special_offer": false
+  }, {
+    "title": "Menu 63€",
+    "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+    "is_menu": true,
+    "is_special_offer": false
+  }, {
+    "title": "Menu 99€",
+    "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+    "is_menu": true,
+    "is_special_offer": false
+  }]
+}, {
+  "name": "Le Park 45",
+  "locality": "Cannes",
+  "zipcode": "06400",
+  "michelinStars": 1,
+  "id": "8628",
+  "url": "https://www.lafourchette.com/restaurant/Le-Park-45/8628",
+  "deals": [{
+    "title": "Menu  60€",
+    "exclusions": "Prix par personne",
+    "is_menu": true,
+    "is_special_offer": false
+  }, {
+    "title": "Menu 190€",
+    "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+    "is_menu": true,
+    "is_special_offer": false
+  }, {
+    "title": "Menu 95€",
+    "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+    "is_menu": true,
+    "is_special_offer": false
+  }, {
+    "title": "Menu 95€",
+    "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+    "is_menu": true,
+    "is_special_offer": false
+  }]
+}, {
+  "name": "Hostellerie de Plaisance",
+  "locality": "Saint-Emilion",
+  "zipcode": "33330",
+  "michelinStars": 2,
+  "id": "4904",
+  "url": "https://www.lafourchette.com/restaurant/Hostellerie-de-Plaisance/4904",
+  "deals": [{
+    "title": "Menu 68€",
+    "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+    "is_menu": true,
+    "is_special_offer": false
+  }, {
+    "title": "Menu Souvenirs 185€",
+    "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+    "is_menu": true,
+    "is_special_offer": false
+  }, {
+    "title": "Menu Plaisance 135€",
+    "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+    "is_menu": true,
+    "is_special_offer": false
+  }]
+}, {
+  "name": "Le Puits du Trésor",
+  "locality": "Lastours",
+  "zipcode": "11600",
+  "michelinStars": 1,
+  "id": "529",
+  "url": "https://www.lafourchette.com/restaurant/Le-Puits-du-Trésor/529",
+  "deals": [{
+    "title": "Set Menus from 47€ to 93€",
+    "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+    "is_menu": true,
+    "is_special_offer": false
+  }]
+}, {
+  "name": "Alliance",
+  "locality": "Paris",
+  "zipcode": "75005",
+  "michelinStars": 1,
+  "id": "77626",
+  "url": "https://www.lafourchette.com/restaurant/Alliance/77626",
+  "deals": [{
+    "title": "Menu 120€",
+    "is_menu": true,
+    "is_special_offer": false
+  }, {
+    "title": "Menu 175€",
+    "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+    "is_menu": true,
+    "is_special_offer": false
+  }, {
+    "title": "Menu Alliance 110€ et Menu Tentation 90€",
+    "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+    "is_menu": true,
+    "is_special_offer": false
+  }]
+}, {
+  "name": "Lasserre",
+  "locality": "Paris 08",
+  "zipcode": "75008",
+  "michelinStars": 1,
+  "id": "250",
+  "url": "https://www.lafourchette.com/restaurant/Lasserre/250",
+  "deals": [{
+    "title": "Menu Plaisir 150€",
+    "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+    "is_menu": true,
+    "is_special_offer": false
+  }, {
+    "title": "Menu dégustation 190€",
+    "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+    "is_menu": true,
+    "is_special_offer": false
+  }, {
+    "title": "Menu Mardis Gourmands 150€",
+    "exclusions": "Prix par personne.",
+    "is_menu": true,
+    "is_special_offer": true
+  }, {
+    "title": "Menu Déjeuner 60€",
+    "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+    "is_menu": true,
+    "is_special_offer": false
+  }]
+}, {
+  "name": "La Scène Thélème",
+  "locality": "PARIS",
+  "zipcode": "75017",
+  "michelinStars": 1,
+  "id": "269585",
+  "url": "https://www.lafourchette.com/restaurant/La-Scène-Thélème/269585",
+  "deals": [{
+    "title": "-50% off the \"à la carte\" menu!",
+    "exclusions": "Set menus and drinks not included. Available on the booked timeslot.",
+    "is_menu": false,
+    "is_special_offer": true
+  }, {
+    "title": "-30% off the \"à la carte\" menu!",
+    "exclusions": "Set menus and drinks not included. Available on the booked timeslot.",
+    "is_menu": false,
+    "is_special_offer": true
+  }, {
+    "title": "-20% off the \"à la carte\" menu!",
+    "exclusions": "Set menus and drinks not included. Available on the booked timeslot.",
+    "is_menu": false,
+    "is_special_offer": true
+  }, {
+    "title": "Menu du Marché 95€",
+    "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+    "is_menu": true,
+    "is_special_offer": false
+  }, {
+    "title": "Menu Promenade 129€",
+    "exclusions": "Prix par personne hors boisson.",
+    "is_menu": true,
+    "is_special_offer": false
+  }, {
+    "title": "Menu Mardis Gourmands 99 €",
+    "exclusions": "Prix par personne.",
+    "is_menu": true,
+    "is_special_offer": false
+  }, {
+    "title": "Menu Déjeuner 39€ ou 49€",
+    "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+    "is_menu": true,
+    "is_special_offer": false
+  }]
+}, {
+  "name": "1912",
+  "locality": "Trouville-sur-Mer",
+  "zipcode": "14360",
+  "michelinStars": 1,
+  "id": "60777",
+  "url": "https://www.lafourchette.com/restaurant/1912/60777",
+  "deals": [{
+    "title": "20% off food",
+    "exclusions": "Set menu and drinks not included. Valid for all orders of starter + a main or a main + dessert as a minimum per person.",
+    "is_menu": false,
+    "is_special_offer": true
+  }]
+}, {
+  "name": "Agapé",
+  "locality": "Paris 17",
+  "zipcode": "75017",
+  "michelinStars": 1,
+  "id": "1923",
+  "url": "https://www.lafourchette.com/restaurant/Agapé/1923",
+  "deals": [{
+    "title": "Menu Prestige 72€",
+    "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+    "is_menu": true,
+    "is_special_offer": false
+  }, {
+    "title": "Menu Gourmands 185€",
+    "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+    "is_menu": true,
+    "is_special_offer": false
+  }]
+}, {
+  "name": "Le Relais Bernard Loiseau",
+  "locality": "Saulieu",
+  "zipcode": "21210",
+  "michelinStars": 2,
+  "id": "3303",
+  "url": "https://www.lafourchette.com/restaurant/Le-Relais-Bernard-Loiseau/3303",
+  "deals": [{
+    "title": "Menu 250€",
+    "is_menu": true,
+    "is_special_offer": false
+  }, {
+    "title": "Menu 150€",
+    "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+    "is_menu": true,
+    "is_special_offer": false
+  }, {
+    "title": "Menu 245€",
+    "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+    "is_menu": true,
+    "is_special_offer": false
+  }, {
+    "title": "Menu 195€",
+    "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+    "is_menu": true,
+    "is_special_offer": false
+  }, {
+    "title": "Menu 75€",
+    "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+    "is_menu": true,
+    "is_special_offer": false
+  }]
+}, {
+  "name": "L'Odas",
+  "locality": "Rouen",
+  "zipcode": "76000",
+  "michelinStars": 1,
+  "id": "212971",
+  "url": "https://www.lafourchette.com/restaurant/LOdas/212971",
+  "deals": [{
+    "title": "Menu 65€",
+    "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+    "is_menu": true,
+    "is_special_offer": false
+  }, {
+    "title": "Menu 45€",
+    "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+    "is_menu": true,
+    "is_special_offer": false
+  }, {
+    "title": "Set Menu 28€",
+    "is_menu": true,
+    "is_special_offer": false
+  }]
+}, {
+  "name": "Le Cloître",
+  "locality": "Mane",
+  "zipcode": "04300",
+  "michelinStars": 1,
+  "id": "11050",
+  "url": "https://www.lafourchette.com/restaurant/Le-Cloître/11050",
+  "deals": [{
+    "title": "Menu 135€",
+    "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+    "is_menu": true,
+    "is_special_offer": false
+  }, {
+    "title": "Menu 115€",
+    "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+    "is_menu": true,
+    "is_special_offer": false
+  }, {
+    "title": "Menu 75€",
+    "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+    "is_menu": true,
+    "is_special_offer": false
+  }]
+}, {
+  "name": "Le Passe Temps",
+  "locality": "Lyon",
+  "zipcode": "69006",
+  "michelinStars": 1,
+  "id": "323145",
+  "url": "https://www.lafourchette.com/restaurant/Le-Passe-Temps/323145",
+  "deals": [{
+    "title": "Menu 85€",
+    "exclusions": "prix par personne",
+    "is_menu": true,
+    "is_special_offer": false
+  }, {
+    "title": "Menu  60€",
+    "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+    "is_menu": true,
+    "is_special_offer": false
+  }, {
+    "title": "Menu 30€",
+    "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+    "is_menu": true,
+    "is_special_offer": false
+  }]
+}, {
+  "name": "Mickaël Féval",
+  "locality": "Aix-en-Provence",
+  "zipcode": "13100",
+  "michelinStars": 1,
+  "id": "77134",
+  "url": "https://www.lafourchette.com/restaurant/Mickaël-Féval/77134",
+  "deals": [{
+    "title": "Menu 35€",
+    "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+    "is_menu": true,
+    "is_special_offer": false
+  }, {
+    "title": "Menu Dégustation 87€",
+    "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+    "is_menu": true,
+    "is_special_offer": false
+  }, {
+    "title": "Menu Tentation 63€",
+    "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+    "is_menu": true,
+    "is_special_offer": false
+  }]
+}, {
+  "name": "Loiseau des Ducs",
+  "locality": "Dijon",
+  "zipcode": "21000",
+  "michelinStars": 1,
+  "id": "29826",
+  "url": "https://www.lafourchette.com/restaurant/Loiseau-des-Ducs/29826",
+  "deals": [{
+    "title": "Menu 48€",
+    "is_menu": true,
+    "is_special_offer": false
+  }, {
+    "title": "Menu 48€",
+    "is_menu": true,
+    "is_special_offer": false
+  }, {
+    "title": "Menu 165€",
+    "is_menu": true,
+    "is_special_offer": false
+  }, {
+    "title": "Menu 48€",
+    "is_menu": true,
+    "is_special_offer": false
+  }, {
+    "title": "Menu 48€",
+    "is_menu": true,
+    "is_special_offer": false
+  }, {
+    "title": "Menu 48€",
+    "is_menu": true,
+    "is_special_offer": false
+  }, {
+    "title": "Menu 105€",
+    "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+    "is_menu": true,
+    "is_special_offer": false
+  }, {
+    "title": "Menu 75€",
+    "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+    "is_menu": true,
+    "is_special_offer": false
+  }, {
+    "title": "Menu 55€",
+    "is_menu": true,
+    "is_special_offer": false
+  }, {
+    "title": "Menu 35€",
+    "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+    "is_menu": true,
+    "is_special_offer": false
+  }, {
+    "title": "Set Menu 25€",
+    "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+    "is_menu": true,
+    "is_special_offer": false
+  }]
+}, {
+  "name": "Copenhague",
+  "locality": "PARIS",
+  "zipcode": "75008",
+  "michelinStars": 1,
+  "id": "25985",
+  "url": "https://www.lafourchette.com/restaurant/Copenhague/25985",
+  "deals": [{
+    "title": "Offre Découverte Signature 115€",
+    "exclusions": "Prix par personne. \nTous les soirs du lundi au jeudi.",
+    "is_menu": true,
+    "is_special_offer": false
+  }]
+}, {
+  "name": "Jin",
+  "locality": "Paris",
+  "zipcode": "75001",
+  "michelinStars": 1,
+  "id": "30379",
+  "url": "https://www.lafourchette.com/restaurant/Jin/30379",
+  "deals": [{
+    "title": "Menu 95€",
+    "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+    "is_menu": true,
+    "is_special_offer": false
+  }, {
+    "title": "Menu 145€",
+    "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+    "is_menu": true,
+    "is_special_offer": false
+  }]
+}, {
+  "name": "La Table du Connétable",
+  "locality": "Chantilly",
+  "zipcode": "60500",
+  "michelinStars": 1,
+  "id": "60775",
+  "url": "https://www.lafourchette.com/restaurant/La-Table-du-Connétable/60775",
+  "deals": [{
+    "title": "Menu 165€",
+    "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+    "is_menu": true,
+    "is_special_offer": false
+  }, {
+    "title": "Menu 140€",
+    "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+    "is_menu": true,
+    "is_special_offer": false
+  }, {
+    "title": "Menu 95€",
+    "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+    "is_menu": true,
+    "is_special_offer": false
+  }, {
+    "title": "Menu 67€",
+    "exclusions": "By booking this set menu, you will be able to order either this set menu or \"à la carte\" if you change your mind.",
+    "is_menu": true,
+    "is_special_offer": false
+  }]
+}]
